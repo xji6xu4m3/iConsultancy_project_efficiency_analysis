@@ -16,19 +16,19 @@ working experience.
 ## Data Analysis :sunny:
 All graphs below can be found in [Tableau Interactive Dashboard](https://public.tableau.com/app/profile/liyu.lo/viz/iConsultancyDashboard/Dashboard2), and all the graphs are interactive! :star2:
 
-# Over View
+### Over View
 ![Over_View](iConsultancyProjectOverviewDashboard.png)
 
 The dataset covers the period from Fall 2019 to Spring 2022. The objective of this analysis is to track the growth in the number of projects completed and accepted by clients over time, to showcase the progress and milestones achieved by iConsultancy to its staff and stakeholders. Given the expected seasonal patterns in the data, I have divided it into two groups to observe changes over the years.
 
 The graph clearly shows a significant growth in the number of completed projects over time, with a particularly sharp increase between Fall 2020 and 2021, where the number of projects increased by 119%. Moreover, each semester saw an increase in the number of completed projects, demonstrating the ongoing growth of iConsultancy's project portfolio.
 
-# Projects Detail
+### Projects Detail
 ![Projects_Detail](Dashboard2.png)
 
 On this page, I have delved into the details of the iConsultancy projects and created a table and stacked bar chart. The purpose of this analysis is to enable iConsultancy to investigate the composition of the projects they have completed in each semester. By presenting the data in both tabular and graphical form, this analysis allows for a more comprehensive understanding of the distribution of project types and volumes across semesters.
 
-# CLients Survey
+### CLients Survey
 ![CLients_Survey](Dashboard3.png)
 
 The survey data page provides an overview of the client satisfaction rate with iConsultancy, as well as the specific questions answered by clients. The current satisfaction rate is close to 90.91%, indicating that the majority of clients are accepting of the final deliverables and satisfied with their overall experience. However, there is still room for improvement, and certain issues need to be addressed.
